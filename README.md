@@ -3,6 +3,7 @@
 # Table of Contents
 
 - [Logo](#logo)
+- [Vector](#vector)
 
 
 ### Logo
@@ -19,6 +20,17 @@
 <p>
 
 <img src="https://bangpypers.github.io/assets/logo/bangpypers-square-large.png" height="100">
+
+</p>
+</details>
+
+
+### Vector
+
+<details><summary>Logo</summary>
+<p>
+
+<img src="https://bangpypers.github.io/assets/vector/bangpypers.svg" height="100">
 
 </p>
 </details>
